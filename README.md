@@ -8,3 +8,5 @@
 2- rotate image
 3- crop image
 4- resize image
+5- gaussian blur
+
