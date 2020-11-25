@@ -1,6 +1,7 @@
 image processing:
 currently using libraries:
     - OpenCV
+    - Numpy
 
 learning form : likegeeks.com/python-image-processing/
 
