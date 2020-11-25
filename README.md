@@ -1,7 +1,8 @@
-# image_processing with openCV
+image processing:
+currently using libraries:
+    - OpenCV
 
-# learning from
-# likegeeks.com/python-image-processing/
+learning form : likegeeks.com/python-image-processing/
 
 
 1- basics of the image (read image, show image, height, width,...)
