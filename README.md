@@ -11,4 +11,7 @@ learning form : likegeeks.com/python-image-processing/
 3- crop image
 4- resize image
 5- gaussian blur
+6- Median blur
+7- Canny Edge Detector
+8- convert image to Gray Scale
 
